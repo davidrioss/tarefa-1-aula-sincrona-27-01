@@ -67,3 +67,6 @@ Arquivo de configuração do CMake para compilar o projeto utilizando o Pico SDK
 ## Observações
 Verifique se os pinos configurados no código estão de acordo com a fiação da sua placa BitDogLab.
 Em caso de problemas com a ativação das interrupções, certifique-se de que os botões estão funcionando corretamente e que não há conflitos de pinos com outros dispositivos conectados.
+
+## Video de demonstração
+* Link para o video de demonstração: <https://youtube.com/shorts/R37A8Wue_6I> 
